@@ -100,11 +100,3 @@ Crear más filtros de promedio que funcionen como algunos editores populares.
 * Crear una nueva herramienta que utilice HMM
 
 Aun así, se anima a cualquier persona interesada en este tipo de despixelización a implementar su propia versión basada en HMM y compartirla.
-
-### Otras fuentes y herramientas
-
-Después de crear este programa, alguien me recomendó un [documento de investigación](https://www.researchgate.net/publication/305423573_On_the_Ineffectiveness_of_Mosaicing_and_Blurring_as_Tools_for_Document_Redaction) de 2016, donde un grupo de investigadores logró crear una herramienta similar. Su herramienta tiene mayor precisión y funciona con muchas fuentes diferentes. Aunque su código fuente original no es público, existe una implementación de código abierto en [DepixHMM](https://github.com/JonasSchatz/DepixHMM).
-
-Edición del 16 de febrero de 2022: [Dan Petro](https://bishopfox.com/authors/dan-petro) creó la herramienta UnRedacter ([artículo](https://bishopfox.com/blog/unredacter-tool-never-pixelation), [fuente](https://github.com/BishopFox/unredacter)) para resolver un [desafío](https://labs.jumpsec.com/can-depix-deobfuscate-your-data/) creado como respuesta a Depix.
-
-Edición del 16 de abril de 2025: Jeff Geerling creó un [reto](https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos) para despixelar el contenido pixelado de una carpeta en una imagen en movimiento. Tres personas lo lograron. [Aquí](https://github.com/KoKuToru/de-pixelate_gaV-O6NPWrI) hay un repositorio de KoKuToru que muestra cómo hacerlo con TensorFlow. ¡Genial!
