@@ -9,12 +9,6 @@ En [este artículo](https://www.spipm.nl/2030.html) explico la información de f
 
 ![image](docs/img/Recovering_prototype_latest.png)
 
-## Actualizaciones
-
-* 24 dic. 2024: El repositorio se volvió privado, se le cambió el nombre y se volvió público. Tenía una cantidad ridícula de estrellas debido a la publicidad mediática, lo cual no me pareció bien. Creé esto como una PoC rápida para una empresa en su día, porque alguien pixeló parte de la contraseña de una cuenta con derechos de administrador de dominio. La imagen atractiva desató la expectación y, finalmente, este repositorio obtuvo 26 152 estrellas. Si vuelvo a conseguir tantas estrellas, quiero que sea por un proyecto que me entusiasme tanto.
-![image](images/stars.png)
-* 27 nov. '23: Refactoricé y eliminé todo el problema de pip. Me gustan los scripts que se pueden ejecutar fácilmente. Si no se encuentra un paquete, simplemente se instala. También añadí `tool_show_boxes.py` para mostrar la precisión del detector de cajas (hay que recortar los píxeles con mucha precisión). Creé una tarea pendiente para crear una versión que simplemente recorte cajas de tamaño estático.
-
 ## Instalación
 
 * Instalar las dependencias
